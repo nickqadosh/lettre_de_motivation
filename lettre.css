@@ -1,0 +1,40 @@
+body{
+    font-family: 'Dancing Script', cursive;
+    font-size: 2em;
+    width: 80vw;
+    margin: auto;
+    box-shadow: 1px 1px 1px 4px;
+   
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+section{
+    margin:100px ;
+    text-align: justify;
+}
+article p
+{
+    font-size: 1em;
+}
+
+ footer{
+     text-align: right;
+     padding: 10px;
+     margin-bottom: 350px;
+     margin-right: 80px;
+ }
+ img{
+     width: 400px;
+     height: 200px;
+ }
+ main{
+    background: #8E8F8A;
+ }
+ .main{
+     padding: 10px;
+ }
